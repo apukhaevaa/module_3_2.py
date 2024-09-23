@@ -15,4 +15,4 @@ def send_email(message, recipient, *, sender):
 send_email('Напоминаю самому себе о вебинаре', 'urban.teacher@mail.ru', sender='urban.teacher@mail.ru')
 send_email('Напоминание', 'vasyok1337@gmail.com', sender='university.help@gmail.com')
 send_email('Новое письмо', 'urban.fan@mail.ru', sender='urban.info@gmail.com')
-send_email('Не отправляется', 'urban.student@mail.ru', sender='urban.teacher@mail.uk')
+send_email('Не отправляется', 'urban.student@mail.ru', sender='urban.teacher@mail.ru')
